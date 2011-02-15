@@ -1,0 +1,13 @@
+<module>
+	<rawname>dbeditor</rawname>
+	<name>Database Editor</name>
+	<description>Allow direct editing of the Asterisk/FreePBX database.</description>
+	<version>1.0</version>
+	<type>tool</type>
+	<category>Addons</category>
+	<menuitems>
+		<dbeditor category="System Administration">Database Editor</dbeditor>
+	</menuitems>
+	<location>release/dbeditor-1.0.tgz</location>
+	<info>http://www.qualityansweringservice.com/anatomy-oscc/freepbx/dbeditor</info>
+</module>
